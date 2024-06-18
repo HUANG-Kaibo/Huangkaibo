@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "KaiboHuang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "KaiboHuang"
-description              : &description "undergraduate,BUPT"
+description              : &description "undergraduate,BUPT"  
 url                      : https://huang-kaibo.github.io/info/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HUANG-Kaibo/info"
@@ -26,24 +26,23 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "undergraduate,BUPT"
   location         : "Beijing China"
-  employer         : "Beijing University of Posts and Telecommunications"
-  uri              : # URL
+  employer         : "BUPT"
+  uri              : 'https://www.bupt.edu.cn/'
   email            : "Huangkaibo@bupt.edu.cn" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  googlescholar    : "https://scholar.google.com/citations?user=C7B5X5IAAAAJ"
+  orcid            : "https://orcid.org/0009-0005-6801-8068"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  github           : "https://github.com/HUANG-Kaibo"
+
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/HUANG-Kaibo"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
