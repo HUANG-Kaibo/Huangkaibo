@@ -12,7 +12,7 @@ title                    : "KaiboHuang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "KaiboHuang"
 description              : &description "undergraduate,BUPT"  
-url                      : https://huang-kaibo.github.io/info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://huang-kaibo.github.io/info    # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HUANG-Kaibo/info"
 
@@ -27,19 +27,17 @@ author:
   bio              : "undergraduate,BUPT"
   location         : "Beijing China"
   employer         : "BUPT"
-  uri              : 'https://www.bupt.edu.cn/'
+  #uri              : 'https://www.bupt.edu.cn/'
   email            : "Huangkaibo@bupt.edu.cn" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=C7B5X5IAAAAJ"
   orcid            : "https://orcid.org/0009-0005-6801-8068"
   semantic         : # URL
-  github           : "HUANG-Kaibo"
-
 
 
   # Repositories and software development
-  # github           : "https://github.com/HUANG-Kaibo"
+  github           : "huang-kaibo"
 
   # Social media
   instagram        : # Username
